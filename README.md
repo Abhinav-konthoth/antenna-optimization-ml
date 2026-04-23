@@ -27,5 +27,5 @@ Note: Dataset is not included due to size constraints.
 - Feature importance visualized
 
 ## Future Improvements
-- Deploy as a web app (Streamlit)
+- Deploy as a web app
 - Integrate with CST simulation pipeline
